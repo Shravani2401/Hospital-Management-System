@@ -1,1 +1,1 @@
-# DentalManagementApp
+# HospitalManagementSystem
